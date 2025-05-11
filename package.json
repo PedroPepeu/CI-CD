@@ -1,0 +1,12 @@
+{
+  "name": "ci-cd-notify-demo",
+  "version": "1.0.0",
+  "description": "A demo project showing CI/CD with Discord notifications",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+} 
